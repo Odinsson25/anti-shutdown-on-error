@@ -1,5 +1,4 @@
-# 🚫 Anti-Shutdown-On-Error 🛑
-Or Anti-Crash
+# 🚫 Anti-Crash 🛑
 
 Tired of your Node.js project getting shut down on every single little error? Here is an 8-line code snippet that can fix this! 🛠️✨
 
