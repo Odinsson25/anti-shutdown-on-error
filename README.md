@@ -1,8 +1,13 @@
-# anti-shutdown-on-error
-Tired of your node project getting shut down on every single little error? Here is a 8-line code which can fix this!
+# 🚫 Anti-Shutdown-On-Error 🛑
+Or Anti-Crash
 
---- 
-## Instructions
-Place the code provided in the intex.js in one of your files, preferebally in your index/main file, save it, and you are done!
+Tired of your Node.js project getting shut down on every single little error? Here is an 8-line code snippet that can fix this! 🛠️✨
 
-Enjoy coding!
+---
+
+## 📜 Instructions
+
+1. Place the code provided in `index.js` in one of your files, preferably in your "main" file.
+2. Save it, and you are done!
+
+Enjoy coding! 🎉💻
